@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Hero section full screen with background */
+.hero {
+  min-height: 100vh;
+  background: url('https://i.pinimg.com/736x/bf/b4/0e/bfb40ea7e4133fd5a0b3d73ef46650b4.jpg') no-repeat center center/cover;
+  position: relative;
+  padding-top: 80px;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
+}
+
+.hero h1,
+.hero p {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
