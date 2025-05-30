@@ -11,5 +11,4 @@ A responsive single-page gaming-themed website built using HTML, CSS, and Bootst
 - Styled with Bootstrap 5 and custom CSS
 - Mobile-friendly layout
 
-Check out the live version here: [Shadow Realm Website](http://127.0.0.1:5500/index.html)
 
